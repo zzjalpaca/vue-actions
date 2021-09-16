@@ -96,7 +96,7 @@
 
 <script>
 export default {
-  name: "HelloWorld love",
+  name: "HelloWorld love 111111",
   props: {
     msg: String,
   },
